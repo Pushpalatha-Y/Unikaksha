@@ -1,0 +1,9 @@
+ch=input()
+vow="aeiouAEIOU"
+if (ch>='A' and ch<='Z')or(ch>='a'and ch<='z'):
+    if ch in vow:
+        print('vowel')
+    else:
+        print('consonant')
+else:
+    print('Not an alphabet')
