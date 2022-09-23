@@ -1,4 +1,0 @@
-p=int(input())
-t=int(input())
-r=float(input())
-print('%.2f'%(p*t*r/100))
