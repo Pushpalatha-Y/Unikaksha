@@ -1,0 +1,12 @@
+#Hello World
+print('Hello World')
+
+#Hello World with tab
+print('Hello World \t Hello World')
+
+#Hello World with new line
+print('Hello World \n Hello World')
+
+#integer input
+a=int(input())
+print(a)
